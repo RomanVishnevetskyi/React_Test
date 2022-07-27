@@ -1,0 +1,26 @@
+.btn {
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    max-width: 100%;
+    justify-content: center;
+    background: rgb(0, 127, 242);
+    background: linear-gradient(180deg, rgba(0, 127, 242, 1) 50%, rgba(255, 243, 10, 0.9867297260701156) 50%);
+}
+
+.card p span {
+    font-weight: bolder;
+}
+
+.spiner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150px;
+    transform: translate(-50%, -50%);
+
+}
