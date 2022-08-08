@@ -1,0 +1,32 @@
+.auth-form{
+    width: 50vw;
+    height: 100vh;
+    padding: 20px;
+    background-color: snow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.auth-form__subtitle__upper{
+    color: #07649b;
+}
+
+.auth-form__subtitle{
+    color: #d0d00a;
+}
+
+.auth-form__form {
+    max-width: 360px;
+}
+
+.auth-form__keep-logged-in {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.auth-form__footer {
+    margin-top: 8px;
+}

@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c64b6af7-1287-4560-9a6f-ea1070d475e0" name="Changes" comment="add Test Task">
-      <change beforePath="$PROJECT_DIR$/btc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/btc/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testV/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/testV/.gitignore" afterDir="false" />
+    <list default="true" id="c64b6af7-1287-4560-9a6f-ea1070d475e0" name="Changes" comment="add form">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/assets/wallaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/auth-form/auth-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/auth-form/auth-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/auth-form/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/auth-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/auth-page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/pages/auth-page/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testV" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,6 +67,11 @@
       <workItem from="1658924511515" duration="1921000" />
       <workItem from="1658934110869" duration="2804000" />
       <workItem from="1658936952177" duration="43000" />
+      <workItem from="1658936996382" duration="234000" />
+      <workItem from="1658937235238" duration="23000" />
+      <workItem from="1658995486640" duration="1909000" />
+      <workItem from="1659958878990" duration="252000" />
+      <workItem from="1659959177788" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="add Test Task">
       <created>1658924871653</created>
@@ -52,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658924871653</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Test Task">
+      <created>1658937142453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658937142453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Test Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Test Task" />
+    <MESSAGE value="add form" />
+    <option name="LAST_COMMIT_MESSAGE" value="add form" />
   </component>
 </project>
